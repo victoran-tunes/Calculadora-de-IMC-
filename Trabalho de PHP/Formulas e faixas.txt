@@ -1,0 +1,25 @@
+Cálculo de IMC: 
+
+peso / (altura * altura)
+
+
+Condição Física (pelo IMC):
+
+abaixo de 17.0					muito abaixo do peso (peso1.png)
+de 17.0 até menos de 18.5		abaixo do peso (peso2.png)
+de 18.5 até menos de 25.0		peso normal (peso3.png)
+de 25.0 até menos de 30.0		acima do peso (peso4.png)
+de 30.0 até menos de 35.0		obesidade grau 1 (peso5.png)
+de 35.0 até menos de 40.0		obesidade grau 2 (peso6.png)
+a partir de 40.0				obesidade grau 3 (peso7.png)
+
+
+Cálculo de peso ideal para homens:
+
+52 + (0.75 * (altura em cm - 152.4))
+
+
+Cálculo do peso ideal para mulheres:
+
+49 + (0.67 * (altura em cm - 152.4))
+
